@@ -16,7 +16,7 @@
 5first Message<\/p>\r\n","date":"2019-07-10 10:43:56","status_read":"unread"},
 
 {"id":"303","title":"601 memo","body":"
-6first Message<\/p>\r\n","date":"2019-07-10 10:45:43","status_read":"unread"}],"success":true,"message":" berhasil"},
+6first Message<\/p>\r\n","date":"2019-07-10 10:45:43","status_read":"unread"},
 
 {"id":"304","title":"701 memo","body":"
-7first Message<\/p>\r\n","date":"2019-07-19 07:01:01","status_read":"unread"}
+7first Message<\/p>\r\n","date":"2019-07-19 07:01:01","status_read":"unread"}],"success":true,"message":" berhasil"}
